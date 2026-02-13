@@ -1,4 +1,4 @@
-# testPythonInJupyter
+# Test python in jupyter
 Test python programming in jupyter.
 * Use the ipynb to run simple python implementations
 * variables
