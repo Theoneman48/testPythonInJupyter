@@ -1,0 +1,4 @@
+# Just for testing!
+# Example usage
+matplotlib==3.10.0
+numpy==2.2.2
